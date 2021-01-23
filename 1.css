@@ -7,7 +7,7 @@ a.nuthire.btn.btn-primary {
     border-radius: 0px;
 }
 
-.tt p {color: black;font-size: 16px;line-height: 24px;width: 50%;margin: auto;margin-bottom: 34px;}
+.tt p {color: black;font-size: 14px;line-height: 24px;width: 50%;margin: auto;margin-bottom: 34px;}
 
 .tt h2 {
     color: white;
@@ -26,7 +26,7 @@ a.nuthire.btn.btn-primary {
 
 .tt img {
     height: 140px;
-    width: 140px;
+    width: 164px;
 }
 
 
@@ -71,20 +71,30 @@ body, html {
 {
     *{}
 
+.tt p {
+    font-size: 13px;
+}
+
+.tt h2 {
+    margin-top: -44px;
+    font-size: 20px;
+}
+
 .tt img {
-    margin-top: 114px;
-    width: 178px;
+    margin-top: 113px;
+    width: 144px;
+    height: 130px;
 }
 .tt p {
-    margin-bottom: 11px;
+    margin-bottom: 24px;
 }
 
     ul.navbar-nav.mr-auto.mt-2.mt-lg-0 {
         float: none;
         text-align: center;
-        margin-bottom: -5px;
+        margin-bottom: -7px;
         background: white;
-        width: 117%;
+        width: 119%;
         position: relative;
         right: -29px;
         padding: 1px 56px;
