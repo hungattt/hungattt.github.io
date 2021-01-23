@@ -2,3 +2,41 @@
 ul{
     list-style-type: none;
 }
+a.nav-link {
+    font-family: segeo ui;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #101010;
+    line-height: 35px;
+}
+li.nav-item {
+    margin: 0px;
+    padding: 0px;
+    margin: 0 17px;
+}
+@media (max-width:576px)
+{
+    *{}
+  
+
+
+    ul.navbar-nav.mr-auto.mt-2.mt-lg-0 {
+        float: none;
+        text-align: center;
+    }
+
+    li.nav-item {
+        /* float:none!important ; */
+        display: inline;
+        margin: 0 0;
+      
+    }
+
+
+
+    a.navbar-brand {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+}
