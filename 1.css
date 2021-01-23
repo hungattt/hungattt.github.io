@@ -17,9 +17,6 @@ li.nav-item {
 @media (max-width:576px)
 {
     *{}
-  
-
-
     ul.navbar-nav.mr-auto.mt-2.mt-lg-0 {
         float: none;
         text-align: center;
@@ -31,9 +28,6 @@ li.nav-item {
         margin: 0 0;
       
     }
-
-
-
     a.navbar-brand {
         display: block;
         text-align: center;
