@@ -71,6 +71,14 @@ body, html {
 {
     *{}
 
+a.nav-link {
+    font-family: segeo ui;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: #101010;
+    line-height: 13px;
+}
+
 .tt p {
     font-size: 13px;
 }
@@ -81,7 +89,7 @@ body, html {
 }
 
 .tt img {
-    margin-top: 113px;
+    margin-top: 76px;
     width: 144px;
     height: 130px;
 }
@@ -94,9 +102,9 @@ body, html {
         text-align: center;
         margin-bottom: -7px;
         background: white;
-        width: 119%;
+        width: 122%;
         position: relative;
-        right: -29px;
+        right: -31px;
         padding: 1px 56px;
     }
 
@@ -104,7 +112,6 @@ body, html {
         /* float:none!important ; */
         display: inline;
         margin: 0 0;
-      
     }
     a.navbar-brand {
         display: block;
