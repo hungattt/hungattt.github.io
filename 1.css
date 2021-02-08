@@ -4,6 +4,7 @@
     margin-top: -475px;
 }
 
+
 .xuong:after {content: "";position: absolute;width: 4px;height: 8px;background: white;left: 50%;top: 15%;margin-left: -2px;}
 
 .xuong:hover {
