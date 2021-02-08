@@ -1,5 +1,9 @@
 *{margin: 0;padding: 0;display: block;}
 
+.khoitt1 {
+    margin-top: -475px;
+}
+
 .xuong:after {content: "";position: absolute;width: 4px;height: 8px;background: white;left: 50%;top: 15%;margin-left: -2px;}
 
 .xuong:hover {
